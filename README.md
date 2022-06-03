@@ -1,6 +1,6 @@
 # Selenium 4 CDP Examples
 
-Some practise examples to how use and implement many features about Selenium $ with CDP (Chrome DevTools Protocol) like:
+Some practise examples to how use and implement many features about Selenium 4 with CDP (Chrome DevTools Protocol) like:
 
 - What are Chrome Dev tools? Why do we need this for Selenium testing?
 - Understand Device metrics override function to simulate browser as mobile
